@@ -1,2 +1,6 @@
 # MiniProjectsJava
-The project is from collection framework. This was assigned by Praveen Sharma Sir
+This was assigned by Praveen Sharma Sir.
+1) InsertUniqueVolumeBoxes.java
+
+2) UserRegistration.java
+
