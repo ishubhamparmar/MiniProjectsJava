@@ -1,9 +1,10 @@
 # MiniProjectsJava
 
 1) InsertUniqueVolumeBoxes.java
-
 Topic: Collection Framework: Set interface, Hashset.
-Insert the box details into the set. Create a box class and its attributes are length breadth and height (Double Type). Get the box details from the user and insert into the set. We need to store the details of the boxes with different volumes when the volume of the box is the same as the volume of previous boxes included don't add this box in the set. The boxes are called same when their volumes are equal. 
+Insert the box details into the set. Create a box class and its attributes are length breadth and height (Double Type). Get the box details from the user and insert into the set. We need to store the details of the boxes with different volumes when the volume of the box is the same as the volume of previous boxes included don't add this box in the set. The boxes are called same when their volumes are equal.
+
+Link: https://github.com/ishubhamparmar/MiniProjectJava/blob/main/InsertUniqueVolumeBoxes.java
 
 2) UserRegistration.java
 
@@ -24,7 +25,7 @@ step 3: Logic inside the methods
 
         (ii) If userCountry is India print the message "User Registration successful"
       
-
+Link: https://github.com/ishubhamparmar/MiniProjectJava/blob/main/UserRegistration.java
 
 # Hi, I'm Shubham Parmar! 👋
 
